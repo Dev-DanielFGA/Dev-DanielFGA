@@ -1,5 +1,5 @@
 ### Hello 👋 ##  I'm Daniel Fernando Granados Amador!
-I am a systems engineering student passionate about the backend world and in love with Java. I love exploring new technologies and developing innovative solutions!
+I am a software engineering student passionate about the backend world and in love with Java. I love exploring new technologies and developing innovative solutions!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
