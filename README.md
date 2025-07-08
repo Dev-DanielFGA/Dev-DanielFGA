@@ -15,18 +15,18 @@ Final-year Systems Engineering student passionate about backend development. I f
   ##
 | 🎯 **Current Focus** | 🎯 **Areas of Interest** |
 |:---|:---|
-| • **Backend Development** with Java & Spring | • **Backend Development**: Robust development with Java and Spring Framework |
-| • **Databases** MySQL & PostgreSQL | • **Software Architecture**: Design of scalable and maintainable systems |
-| • **CRM & ERP Systems** with Odoo (Python) | • **Databases**: Modeling and optimization with MySQL and PostgreSQL |
-| • **REST APIs** and Microservices | • **ERP Systems**: Implementation and customization with Odoo |
-| | • **REST APIs**: Efficient web service development |
-| | • **Microservices**: Distributed and resilient architectures |
+| • **Backend Development** with Java & Spring | • **Backend Development**: Robust Development with Java and Spring Framework |
+| • **Databases** MySQL & PostgreSQL | • **Software Architecture**: Design of Scalable and Maintainable Systems |
+| • **CRM & ERP Systems** with Odoo (Python) | • **Databases**: Modeling and Optimization with MySQL and PostgreSQL |
+| • **REST APIs** and Microservices | • **CRM & ERP Systems**: Implementation and Customization with Odoo |
+| | • **REST APIs**: Efficient Web Service Development |
+| | • **Microservices**: Distributed and Resilient Architectures |
 ## 🌱 Currently Learning
-* Advanced design patterns in Java
-* Microservices architecture with Spring Boot
-* PostgreSQL query optimization
-* Custom module development in Odoo
-* DevOps and containerization with Docker
+* Advanced Design Patterns in Java
+* Microservices Architecture with Spring Boot
+* PostgreSQL Query Optimization
+* Custom Module Development in Odoo
+* DevOps and Containerization with Docker
 ## 📫 Contact
  
 <div> 
