@@ -17,7 +17,7 @@ Final-year Systems Engineering student passionate about backend development. I f
 |:---|:---|
 | • **Backend Development** with Java & Spring | • **Backend Development**: Robust development with Java and Spring Framework |
 | • **Databases** MySQL & PostgreSQL | • **Software Architecture**: Design of scalable and maintainable systems |
-| • **ERP Systems** with Odoo (Python) | • **Databases**: Modeling and optimization with MySQL and PostgreSQL |
+| • **CRM & ERP Systems** with Odoo (Python) | • **Databases**: Modeling and optimization with MySQL and PostgreSQL |
 | • **REST APIs** and Microservices | • **ERP Systems**: Implementation and customization with Odoo |
 | | • **REST APIs**: Efficient web service development |
 | | • **Microservices**: Distributed and resilient architectures |
